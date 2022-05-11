@@ -1,0 +1,40 @@
+h3 {
+ text-align: center;
+ border: 2.5px solid purple;
+ background-color: violet;
+ width: 300px;
+ color: green;
+ margin: 0.5em;
+ padding:0.5em;
+}
+body {
+border: 8px solid purple;
+box-shadow: 10px 12px lightgrey;
+color: green;
+height: 630px;
+width: 340px;
+margin: 0.5em;
+padding: 0.5em;
+}
+p {
+ border: 2.5px solid purple;
+ background-color: violet;
+ width: 300px;
+ height: 290px;
+ margin: 0.5em;
+ padding:0.5em;
+}
+img {
+ border: 2px solid purple;
+ background-color: violet;
+ height: 200px;
+ width:  300px;
+ margin:0.5em;
+ padding:0.5em;
+}
+.descriptionbox {
+ font-weight: bold;
+}
+.interesting {
+font-style: italic;
+}
